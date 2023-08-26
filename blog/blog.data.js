@@ -1,4 +1,12 @@
-const blogData = [];
+const blogData = [
+    {
+        index: 0,
+        title: "Why should you select NodeJS as your development tool?",
+        date: "26 August 2023",
+        subtitle:
+            "In this blog post I will explain you why relying on NodeJS will be the best option for you",
+    },
+];
 
 /**
     {
