@@ -1,5 +1,11 @@
 const blogData = [
     {
+        index: 1,
+        title: "Which programming language should I learn?",
+        date: "29 August 2023",
+        subtitle: "There are plenty of programming languages available for different purposes",
+    },
+    {
         index: 0,
         title: "Why should you select NodeJS as your development tool?",
         date: "26 August 2023",
